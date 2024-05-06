@@ -29,4 +29,3 @@ Bu kılavuz, etkinlik satın alma sisteminin nasıl kullanılacağını adım ad
 - Varsayılan kullanıcı adı: admin
 - Varsayılan şifre: admin1
 3. Bu bölümde etkinlikler ile alakalı düzenlemeler yapabilirsiniz.
-
